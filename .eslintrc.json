@@ -1,0 +1,17 @@
+{
+ "extends": ["next/core-web-vitals", "eslint:recommended", "plugin:prettier/recommended","next/babel","next/core-web-vitals"],
+ "env": {
+  "es2020": true,
+  "es6": true,
+  "node": true
+ },
+ "plugins": ["prettier"],
+ "rules": {
+  "prettier/prettier": [
+   "warn","error",
+   {
+    "endOfLine": "auto"
+   }
+  ]
+ }
+}

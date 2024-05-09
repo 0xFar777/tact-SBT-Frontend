@@ -1,0 +1,85 @@
+.content-p {
+ text-indent: 2em;
+ word-wrap: break-word;
+ hyphens: auto;
+ color: #888;
+ font-weight: 700;
+ font-family: Courier;
+}
+
+.event-table-pc {
+ border-collapse: collapse;
+ width: 100%;
+}
+
+.event-table-pc th,
+.event-table-pc td {
+ border: 2px solid #f88;
+ text-align: left;
+ padding: 8px;
+ font-size: 16px;
+ font-weight: bold;
+ font-family: Arial, Helvetica, sans-serif;
+ word-wrap: break-word;
+ hyphens: auto;
+}
+
+.event-table-pc th {
+ background-color: #888;
+}
+
+.custom-table {
+ border-collapse: collapse;
+ border: 2px solid black;
+ width: 80%;
+}
+
+.custom-table th,
+.custom-table td {
+ border: 2px solid black;
+ text-align: center;
+ vertical-align: middle;
+ padding: 5px;
+ color: #f88;
+}
+
+.invite-table {
+ border-collapse: collapse;
+ border: 1px solid white;
+ width: 100%;
+}
+
+.invite-table th,
+.invite-table td {
+ border: 1px solid white;
+ text-align: center;
+ vertical-align: middle;
+ padding: 5px;
+ color: #f88;
+}
+
+.inviteRule-table {
+ border-collapse: collapse;
+ border: 1px solid white;
+ width: 100%;
+}
+
+.inviteRule-table th {
+ border: 1px solid white;
+ text-align: center;
+ vertical-align: middle;
+ padding: 5px;
+ color: #f88;
+}
+
+.inviteRule-table td {
+ border: 1px solid white;
+ text-align: center;
+ vertical-align: middle;
+ padding: 5px;
+ color: #fff;
+}
+
+.levelTag {
+ color: #00ff7f !important;
+}
