@@ -29,7 +29,7 @@ export default function Introduce() {
     <div className="mx-6 border-b-2 py-0 text-center text-lg font-bold">
      <span style={{ fontSize: "24px" }}>Introduce</span>
     </div>
-    <div className="mt-6">
+    <div className="mt-4">
      <div style={containerStyle}>
       <div style={contentStyle}>
        <p>{paragraph}</p>
