@@ -2,8 +2,8 @@ import "./css/style.css"
 import { Providers } from "./providers"
 
 export const metadata = {
- title: "X Domain",
- description: "X Domain",
+ title: "0xFar777-SBT",
+ description: "0xFar777-SBT",
 }
 
 export default function RootLayout({ children }) {
